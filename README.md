@@ -1,6 +1,6 @@
 # Vacuum Release System for InP Chips
 
-Engineering project focused on reducing adhesion and peel forces during the pick process of fragile indium phosphide (InP) semiconductor chips.
+Engineering project focused on reducing adhesion and peel forces during the pick process of fragile electronic components.
 
 ## Project Overview
 This project investigates a vacuum-based release concept for improving the manual pick process of fragile electronic components mounted on adhesive tape. The system combines mechanical, thermal, and surface-structuring approaches to reduce peel forces and improve handling reliability. The concept was developed and validated as part of a vacuum release system for electronic components.
