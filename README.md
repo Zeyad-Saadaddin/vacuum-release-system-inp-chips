@@ -1,4 +1,4 @@
-# Vacuum Release System for InP Chips
+# Vacuum Release System for Fragile Electronic Components
 
 Engineering project focused on reducing adhesion and peel forces during the pick process of fragile electronic components.
 
